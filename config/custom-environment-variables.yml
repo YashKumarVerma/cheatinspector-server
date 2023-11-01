@@ -1,0 +1,6 @@
+server:
+  port: PORT
+
+cache:
+  host: REDIS_HOST
+  port: REDIS_PORT
